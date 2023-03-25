@@ -7,4 +7,3 @@
 - Auto Rename Tag
 - Auto Close Tag
 
-<li><a href="index.html">Art t-shirt</a></li>
